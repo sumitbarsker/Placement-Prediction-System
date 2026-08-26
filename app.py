@@ -244,3 +244,4 @@ if st.button("🔮 Predict Placement", use_container_width=True):
 
     st.caption(
         "Prediction is generated using the trained Random Forest model."
+    )
